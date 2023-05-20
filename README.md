@@ -111,6 +111,6 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
+- Email: zeil@yandex.ru
 - LinkedIn: https://www.linkedin.com/in/username/
 - Личный сайт: https://www.username.com
